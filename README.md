@@ -1,12 +1,15 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> Hi, I'm Artur</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arturfse/">6+ years</a> of experience. Learning new things 💡
+I take products from idea to production - payments, automation, AI features.
+  <a href="https://developer.expert">More</a> 💡
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img width="50" height="50" src="https://github.com/user-attachments/assets/87958a0c-1cea-4537-9c56-f4b99bc88543" alt="Next js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="Nest JS" height="50" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="50" height="50"/>
@@ -14,9 +17,9 @@
 </p>
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arturfse&background=FFFFFF&dates=000000&hide_border=true&currStreakNum=black" alt="Stats" />
-</p>
+</p>-->
 
-<p align="center">🕶 I’m looking to collaborate on <b>anything free and open source</b></p>
+<p align="center">🕶 I’m looking to collaborate on <b>free and open source</b></p>
 <p align="center">💡 Look to the pinned repositories 👇👇👇</b></p>
