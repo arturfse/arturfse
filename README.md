@@ -2,7 +2,7 @@
 
 <p align="center">
 I take products from idea to production - payments, automation, AI features.
-  <a href="https://developer.expert">More</a> 💡
+  <a href="https://www.linkedin.com/in/arturfse">More</a> 💡
 </p>
 
 
